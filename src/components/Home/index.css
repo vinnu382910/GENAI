@@ -97,6 +97,7 @@ h1 {
 
 .main-image {
     max-width: 600px;
+    height: 100%;
     background-color: transparent;
 }
 
