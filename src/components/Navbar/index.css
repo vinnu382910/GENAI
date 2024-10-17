@@ -32,8 +32,8 @@ nav {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 100%;
     border-bottom: 2px solid #ede7e76e;
+    opacity: 0.8;
 }
 
 .items-Cont {
@@ -127,11 +127,10 @@ li {
 }
 
 @media (max-width: 768px) {
-    .nav-main-cont {
-        opacity: 1;
-    }
     .nav-cont {
         justify-content: space-between;
+        padding: 10px;
+        width: 100vw;
     }
     .lg-items {
         display: none;

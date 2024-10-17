@@ -9,7 +9,6 @@ const Navbar = () =>{
     }
     console.log(showMenu)
     return (
-      <div class="nav-main-cont">
         <nav class="nav-cont">
             <div className="md-logo">
                 <h1 className='header-logo'>A I . G E N</h1>
@@ -89,8 +88,7 @@ const Navbar = () =>{
                 <button class="button-2">Get Started</button>
             </div>
           </div>
-      </nav>
-      <div class={showMenu ? "items-list-cont2" : "items-list-cont"}>
+          <div class={showMenu ? "items-list-cont2" : "items-list-cont"}>
           <hr class="br-line"/>
           <a class="item" href="#home">Features</a>
           <hr class="br-line"/>
@@ -99,7 +97,7 @@ const Navbar = () =>{
           <a class="item" href="#skills">Tokenomics</a>
           <hr class="br-line"/>
       </div>
-  </div>
+      </nav>
     )
 } 
 

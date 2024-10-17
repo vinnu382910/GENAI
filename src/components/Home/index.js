@@ -108,7 +108,7 @@ const Home = () => {
         }, []);
     
     return (
-        <section>
+        <section className='home'>
             <Navbar />
             <div className='section-1'>
                 <div className='desc-cont'>
