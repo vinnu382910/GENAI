@@ -139,7 +139,7 @@ const Home = () => {
                 <div className='box-3'>
                     <div>
                         <img
-                            src="https://s3-alpha-sig.figma.com/img/e16c/a06f/9164d79c6c5519475e7b5e0a4762ea0d?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NsuKsY1-b0U4Piy0gwmnHuYnosVK6Ggl5jQ6sSrI9fEo-75y7F8I6asaGNNSTE8GkDmcOvw3FRr5ffKKx~9jI4p1oRK0HD169I~EX~yD9zmI1VlxCcXtLCR4O7LMzk-lSbnDumSTeq2aHvoPwztDrUSIFwDjPbclr7CPwrbMPnXR2k2zlueRO5M-MVqoqThBjynor6OE-siEwSFgi2LKVc4ReRmaTBOTQZjVRJZq~IDU0ZntdFkF4RF92UD2VzAehYFaCuz~3ICJturyte3O1uW1bmADH0d0yV3T0ZneuR1EYP10eQ0N7lo0DJqNMOi8nGk~McpsXCVYUVlO9LyZ3w__"
+                            src="https://res.cloudinary.com/dgc9ugux7/image/upload/v1731842600/797018893878218544_ifjdnd.png"
                             alt="girl-image"
                             className='section3-image'
                             ref={imageRef} // Reference for the image
